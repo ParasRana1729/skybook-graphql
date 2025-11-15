@@ -2,7 +2,7 @@
 
 A modern, responsive flight booking web application built with React. SkyBook allows users to search for flights, view available options, and explore airline information with an elegant and intuitive user interface.
 
-https://skybook-react.vercel.app/
+https://skybook-graphql.vercel.app/
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
